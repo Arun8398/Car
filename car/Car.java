@@ -18,6 +18,8 @@ public class Car {
 	private String color;
 	private int price;
 	private int enginecc;
+	private int noOfWheels;
+	
 	public int getId() {
 		return id;
 	}
