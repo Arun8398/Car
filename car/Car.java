@@ -18,7 +18,7 @@ public class Car {
 	private String color;
 	private int price;
 	private int enginecc;
-	private int noOfWheels;
+	private int noOfWheel;
 	
 	public int getId() {
 		return id;
